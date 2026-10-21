@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "a984822b-1b9d-4a2d-9bb8-8bfc8cb9f338",
+  "path": "native-subtitle-quote-image",
+  "path_key": "native-subtitle-quote-image",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "git",
+    "ref": "https://github.com/chengyi-ai/native-subtitle-quote-image",
+    "subpath": "skills/native-subtitle-quote-image",
+    "branch": null
+  }
+}
