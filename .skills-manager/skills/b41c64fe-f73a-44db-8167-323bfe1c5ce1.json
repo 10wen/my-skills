@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "b41c64fe-f73a-44db-8167-323bfe1c5ce1",
+  "path": "handdraw-style-prompter",
+  "path_key": "handdraw-style-prompter",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "git",
+    "ref": "https://github.com/yang0/handraw-style",
+    "subpath": null,
+    "branch": null
+  }
+}
