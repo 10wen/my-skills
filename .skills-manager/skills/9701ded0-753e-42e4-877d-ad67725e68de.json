@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "9701ded0-753e-42e4-877d-ad67725e68de",
+  "path": "nekoapi-gpt-image-create",
+  "path_key": "nekoapi-gpt-image-create",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}
