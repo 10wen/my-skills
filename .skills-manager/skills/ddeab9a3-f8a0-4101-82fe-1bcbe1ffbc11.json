@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "ddeab9a3-f8a0-4101-82fe-1bcbe1ffbc11",
+  "path": "hand-drawn-explainer-video-nikola",
+  "path_key": "hand-drawn-explainer-video-nikola",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "skillssh",
+    "ref": "hi-nikola/hand-drawn-explainer-video-nikola/hand-drawn-explainer-video-nikola",
+    "subpath": null,
+    "branch": null
+  }
+}
