@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "3f406d5d-0d73-4be7-83b7-23dc7b9980dd",
+  "path": "rea-video",
+  "path_key": "rea-video",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "local",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}
